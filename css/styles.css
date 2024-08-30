@@ -35,7 +35,6 @@
     user-select: none;
     outline: none;
 }
-img {
-    overflow: clip;
-    overflow-clip-margin: 5px;
+a {
+    height: 95%;
 }
