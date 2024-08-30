@@ -35,6 +35,7 @@
     user-select: none;
     outline: none;
 }
-.modal-image {
-    height: 95%;
+img {
+    overflow: clip;
+    overflow-clip-margin: 5px;
 }
